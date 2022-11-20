@@ -1,0 +1,40 @@
+
+  .headerTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Lora", serif;
+    color: #444;
+  }
+  
+  .headerTitleSm {
+    position: absolute;
+    top: 18%;
+    font-size: 20px;
+    color: rgb(216, 68, 9);
+    font-weight: bolder;
+    font-family: "Sofia", sans-serif;
+    font-size:65px;
+    text-shadow: 3px 3px 3px #ababab;
+    word-spacing: 20px;
+    
+    
+  }
+  
+  
+  .headerTitleLg {
+    position: absolute;
+    top: 35%;
+    font-size: 40px;
+    font-family: "Sofia", sans-serif;
+    font-weight: bold;
+  }
+  
+  .headerImg {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    
+    
+    
+  }
